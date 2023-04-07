@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrostyShaderDuplicator", "FrostyShaderDuplicator\FrostyShaderDuplicator.csproj", "{BCAFAF2D-9648-466B-9C12-9090D42FB0EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCAFAF2D-9648-466B-9C12-9090D42FB0EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCAFAF2D-9648-466B-9C12-9090D42FB0EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCAFAF2D-9648-466B-9C12-9090D42FB0EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCAFAF2D-9648-466B-9C12-9090D42FB0EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDDD3913-35EB-4D32-A442-43ABE7B5CA62}
+	EndGlobalSection
+EndGlobal
